@@ -1,3 +1,5 @@
+#AI BLIND ASSISTANCE GLASSES
+
 Smart Blind Assistance Glasses is a low-cost wearable assistive technology prototype 
 designed to support visually impaired users by detecting nearby obstacles and providing 
 immediate audio or buzzerbased feedback. The system uses an ESP32 DevKit as the main 
